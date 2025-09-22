@@ -78,5 +78,3 @@ Using SQL queries, I calculated averages, maximums, and explored precipitation t
 - Power BI is excellent for interactive exploration and visual storytelling.
 - SQL + Python + Power BI provide a strong workflow for end-to-end data projects.
 - This project strengthened my skills in data cleaning, dashboard design, and extracting insights.
-
-✨ Next Steps: Analyze humidity, wind speed, and seasonal trends to uncover deeper insights.
